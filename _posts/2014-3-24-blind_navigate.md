@@ -1,6 +1,7 @@
 ---
 layout: default
 title: haha#1
+comments: ture
 ---
 
 ##盲人导航初步文献阅读与思路##
