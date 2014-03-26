@@ -1,7 +1,6 @@
-
 ---
 layout: default
-title: haha盲人导航本研#1
+title: haha#1
 ---
 
 ##盲人导航初步文献阅读与思路##
