@@ -1,3 +1,4 @@
+discard
 ---
 layout: default
 title: haha#1
