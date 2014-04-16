@@ -1,6 +1,6 @@
 ---
 layout: default
-title: homework
+title: 小说鉴赏homework
 ---
 
 >I'd finished my pie and was having a second cup of coffee when I saw him. The midnight freight had come in a few minutes before; and he was peering in one end of the restaurant window, the end nearest the depot, shading his eyes with his hand and blinking against the light. He saw me watching him, and his face faded back into the shadows. But I knew he was still there. I knew he was waiting. The bums always size me up for an easy mark.
