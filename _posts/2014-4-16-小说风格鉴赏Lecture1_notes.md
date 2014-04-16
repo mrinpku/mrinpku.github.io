@@ -11,27 +11,22 @@ title: 小说风格鉴赏Lecture1
 * literature
 * style
 * novel->narrative
-1. spatio-temporal POV
-2. psychological POV
-		
-the stream of consciousness
-		
-memory
-		
-sentence fragments
-	
-uncertainty
-
-3. idealogical (outlook worldview)
-4. format POV
-		a. slanted 强调 思想 作者个人观点
+ 1. spatio-temporal POV
+ 2. psychological POV
+  * the stream of consciousness
+  * memory
+  * sentence fragments
+  * uncertainty
+ 3. idealogical (outlook worldview)
+ 4. format POV
+  1. slanted 强调 思想 作者个人观点
 			bold letters
-		b. sentence variances 长短句？
+  2. sentence variances 长短句？
 			fragment of S
 			long、short > 15
 			P h 并列结构 主从结构
 			elliptical
-		c. rhetorical devices 修辞手法
+  3. rhetorical devices 修辞手法
 			figures of speech
 				tropes.metonymy 借喻 转喻
 			schemes 形式修辞法
