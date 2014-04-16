@@ -7,16 +7,15 @@ title: 小说风格鉴赏Lecture1
 ***
 
 ##The Blind Assassin
-
 * literature
 * style
 * novel->narrative
  1. spatio-temporal POV
  2. psychological POV
-  * the stream of consciousness
-  * memory
-  * sentence fragments
-  * uncertainty
+   * the stream of consciousness
+   * memory
+   * sentence fragments
+   * uncertainty
  3. idealogical (outlook worldview)
  4. format POV
   1. slanted 强调 思想 作者个人观点
