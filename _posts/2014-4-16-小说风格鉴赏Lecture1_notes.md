@@ -11,14 +11,19 @@ title: 小说风格鉴赏Lecture1
 * literature
 * style
 * novel->narrative
-	1. spatio-temporal POV
-	2. psychological POV
-		the stream of consciousness
-		memory
-		sentence fragments
-		uncertainty
-	3. idealogical (outlook worldview)
-	4. format POV
+1. spatio-temporal POV
+2. psychological POV
+		
+the stream of consciousness
+		
+memory
+		
+sentence fragments
+	
+uncertainty
+
+3. idealogical (outlook worldview)
+4. format POV
 		a. slanted 强调 思想 作者个人观点
 			bold letters
 		b. sentence variances 长短句？
