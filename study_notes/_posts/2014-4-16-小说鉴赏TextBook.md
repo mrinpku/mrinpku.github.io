@@ -1,10 +1,8 @@
 ---
 layout: default
-title: 小说风格鉴赏Lecture1
+title: 小说风格鉴赏TextBookNotes
 ---
 
-#21实世纪小说风格鉴赏
-***
 ##The Blind Assassin
 
 * literature
@@ -40,9 +38,11 @@ title: 小说风格鉴赏Lecture1
 	3. wordplay
 	4. the shift of speech and thought representation
 	5. genre shift
->vividness  stage effect
 
-***
+vividness  stage effect
+
+
+
 ###以下为乱记
 及物性分析 vi强调主语 vt强调宾语
 
@@ -58,3 +58,5 @@ DS FDT ...FDS
 
 a novel-whthin-a-novel
 double-voicing narrative 大于三层 复调
+
+***
