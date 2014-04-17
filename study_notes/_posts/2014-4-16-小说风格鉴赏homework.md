@@ -34,3 +34,23 @@ Soneji磨着前牙，身体将黑色吉普车的前座压低得嘎吱作响。�
 有一段时间，他成为了全国电视报纸上的黑暗之星。现在，这就要再次发生了。他确信这一点。毕竟，只有他被认为是最好的才公平。  
 
 他将来复枪的准星轻轻地放在Christine Johnson的前额上。这，就打这里，难道这不是个好位置？
+
+###practice 3
+The fat one, the Radish Torez, he calls me Camel because I am Persian and 
+because I can bear this August sun longer than the Chinese and the 
+Panamanians and even the little Vietnamese, Tran. He works very quickly 
+without rest, but when Torez stops the orange highway truck in front of the 
+crew, Tran hurries for his paper cup of water with the rest of them. This heat is 
+no good for work. All morning we have walked this highway between Sausalito 
+and the Golden Gate Park. We carry our small trash harpoons and we drag our 
+burlap bags and we are dressed in vests the same color as the highway truck. 
+Some of the Panamanians remove their shirts and leave them hanging from 
+their back pockets like oil rags, but Torez says something to them in their 
+mother tongue and he makes them wear the vests over their bare backs. We are 
+on a small hill. Between the tress I can see out over Sausalito to the bay where 
+there are no clouds so thick I cannot see the other side where I live with my 
+family in Berkeley, my wife and son. But here there is no fog, only sun on your 
+head and back, and the smell of everything under the nose: the dry grass and 
+dirt; the cigarette smoke of the Chinese; the hot metal and exhaust of the 
+passing automobiles. I am sweating under my shirt and vest. I have fifty six 
+years and no hair. I must buy a hat. 
